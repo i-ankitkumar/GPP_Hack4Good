@@ -13,3 +13,10 @@ The Garbage Profiling Problem looks at capturing images of the garbage at local 
 ### Installation
 - For installation of TensorFlow Object Detection API see [ this ](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md)
 - Install the dependencies using the requirements.txt file using 
+```
+pip install -r requirements.txt
+```
+- Start the Flask Server using:
+```
+python app.py
+```
