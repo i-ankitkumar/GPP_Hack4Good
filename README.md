@@ -31,5 +31,6 @@ pip install -r requirements.txt
 python app.py
 ```
 ### Note:
-The login id and password are Work in Progress. 
+- The login id and password are Work in Progress. 
 You can login using any combination of id and password.
+- The live_inference.py fie can be used to get live predictions on video.
