@@ -1,9 +1,9 @@
 Werkzeug
 Flask
 numpy
+opencv-python
 Keras
 gevent
 pillow
 h5py
 tensorflow==1.15.0
-opencv-python
