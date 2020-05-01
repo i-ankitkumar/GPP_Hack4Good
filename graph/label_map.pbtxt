@@ -1,0 +1,34 @@
+item {
+    id: 1
+    name: 'E-waste'
+}
+
+item {
+    id: 2
+    name: 'cardboard'
+}
+
+item {
+    id: 3
+    name: 'glass'
+}
+
+item {
+    id: 4
+    name: 'metal'
+}
+
+item {
+    id: 5
+    name: 'paper'
+}
+
+item {
+    id: 6
+    name: 'plastic'
+}
+
+item {
+    id: 7
+    name: 'wet'
+}
