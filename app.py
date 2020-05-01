@@ -23,9 +23,9 @@ app = Flask(__name__)
 CORS(app)
 
 
-PATH_TO_FROZEN_GRAPH = "frozen_inference_graph.pb"
-PATH_TO_LABEL_MAP = "label_map.pbtxt"
-IMAGE_PATH = r"E:/GPP/keras-flask-deploy-webapp-master/static/images"
+PATH_TO_FROZEN_GRAPH = "/graph/frozen_inference_graph.pb"
+PATH_TO_LABEL_MAP = "/graph/label_map.pbtxt"
+IMAGE_PATH = "/static/images"
 NUM_CLASSES = 7
 
 #reads the frozen graph
@@ -111,10 +111,10 @@ def predict():
         img = base64_to_pil(request.json)
 
         # Save the image to ./uploads
-        img.save("E:/GPP/keras-flask-deploy-webapp-master/uploads/image.jpg")
+        img.save("/uploads/image.jpg")
 
         # Make prediction
-        img = cv2.imread("E:/GPP/keras-flask-deploy-webapp-master/uploads/image.jpg")
+        img = cv2.imread("/uploads/image.jpg")
         # print(img)
         img_path = model_predict(img)
         
