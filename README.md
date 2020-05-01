@@ -4,7 +4,7 @@ Problem Statement:-
 
 
 Requirements:
-Python 3.7(64-bit)
-tensorflow==1.15.0
-Flask
+1)Python 3.7(64-bit)
+2)tensorflow==1.15.0
+3)Flask
 
