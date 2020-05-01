@@ -1,5 +1,5 @@
 # GPP Hack4Good
-This is our team's submission for **Hack4Good hackathon** conducted at **KC College of Engineering, Thane** on 28/04/2020.
+This is our team's submission for **Hack4Good hackathon** conducted at **[ KC College of Engineering, Thane ](https://www.kccemsr.edu.in)** on 28/04/2020.
 
 ### Our Team Members:
 - Team Leader: Ankit Kumar BE COMPS 'A' 02 Email:kumarankit@kccemsr.edu.in
