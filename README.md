@@ -1,5 +1,5 @@
 # GPP Hack4Good
-This is our teams submission for **Hack4Good hackathon** conducted at **KC College of Engineering, Thane** conducted on 28/04/2020.
+This is our team's submission for **Hack4Good hackathon** conducted at **KC College of Engineering, Thane** conducted on 28/04/2020.
 
 ## Problem Statement:
 The Garbage Profiling Problem looks at capturing images of the garbage at local garbage collection points and analyzing the same to create a rating for the community on the parameters of waste segregation. This analysis could be used to create feedback for the civic bodies to understand or identify communities where they need to take action to make sure this change is brought into action.
